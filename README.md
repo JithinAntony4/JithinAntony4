@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Blockchain**
 - 💬 Ask me about **FullStack, Mobile, PWA Development**
 - 📫 How to reach me: [jithin.co](https://jithin.co)
-- ⚡ Fun fact: **I'm still under development**
 
 <!-- ![Profile views](https://gpvc.arturio.dev/JithinAntony4) -->
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jithinantony333)
