@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[comment]: <> (- 🔭 I’m currently working on [Spot-My-Vaccine](https://github.com/JithinAntony4/Spot-My-Vaccine))
 - 🌱 I’m currently learning **Blockchain**
 - 💬 Ask me about **FullStack, Mobile, PWA Development**
 - 📫 How to reach me: [jithin.co](https://jithin.co)
