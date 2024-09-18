@@ -4,7 +4,6 @@
 - 📫 How to reach me: [jithin.co](https://jithin.co)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/JithinAntony4) -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jithinantony333)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jithinantony333@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithin-antony/)
 [![jithin.co](https://img.shields.io/badge/-jithin.co-000000?style=flat-square&logo=React&logoColor=white)](https://jithin.co/)
